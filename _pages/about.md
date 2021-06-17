@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student at the Institute of Cardiovascular Science, UCL. My research is focused around developing and evaluating deep learning models for automated analysis of cardiac magnetic resonance imaging. 
+I'm a PhD student based at the Institute of Cardiovascular Science, UCL. My research is focused on the development and evaluation of deep learning models for automated analysis of cardiac magnetic resonance (CMR) imaging, in particular for quantification of cardiac structure and function. Although important progress has been made in recent years, there is now a growing need to rigorously validate these models before they can be deployed in routine clinical practice. I'm therefore particularly interested in how to best demonstrate a model's clinical efficacy, utility, and applicability. This will require moving to more clinically relevant criteria for model evaluation that are better adapted to the demands of healthcare and medicine. 
 
-I'm particularly interested in how to best demonstrate a model's clinical efficacy, utility, and applicability. This will require moving to more clinically relevant criteria for model evaluation that are better adapted to the demands of healthcare and medicine. 
-
-The overall aim of my PhD is to help facilitate the translation of these tools into routine clinical practice, and to show how they can be used to accelerate clinical and scientific research.
+I'm funded by the British Heart Foundation, and supervised by Dr. Rhodri Davies (Barts Heart Centre, UCL) and Prof. Alun Hughes (UCL). 
